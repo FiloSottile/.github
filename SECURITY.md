@@ -1,1 +1,1 @@
-↪ https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md#security
+↪ https://filippo.io/maintenance#security
